@@ -34,6 +34,16 @@ entries:
   flight2cal-frontend:
   - apiVersion: v2
     appVersion: 0.0.1
+    created: "2023-07-29T17:47:50.548810952Z"
+    description: A Helm chart for Kubernetes
+    digest: 591027e77222f3377b0eeb17844e935e05a098a4ab7b45ba1c5534b684ab7c3b
+    name: flight2cal-frontend
+    type: application
+    urls:
+    - https://github.com/kseb/helm-charts/releases/download/flight2cal-frontend-0.1.1/flight2cal-frontend-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.0.1
     created: "2023-07-29T17:30:44.677789712Z"
     description: A Helm chart for Kubernetes
     digest: b6c8f357ed181f47b385c8f048e774ff19a94ed11b44d959f4391a3f0a4247db
@@ -42,4 +52,4 @@ entries:
     urls:
     - https://github.com/kseb/helm-charts/releases/download/flight2cal-frontend-0.1.0/flight2cal-frontend-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-29T17:30:44.677808113Z"
+generated: "2023-07-29T17:47:50.548825252Z"
